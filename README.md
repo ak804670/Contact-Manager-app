@@ -3,13 +3,14 @@ A Contact Managment app is a tool that allows users to create, edit, and delete 
 
 <h3 align="center">
    Contact Managment Website Contact page preview- <br/>
-  <a href="" target="_blank"><img alt="Demo" src="./r-Img.png" /> </a>
+  <a href="contact-manager-3ftceldxy-ak804670.vercel.app" target="_blank"><img alt="Demo" src="./r-Img.png" /> </a>
   Resume Builder Website add detials page-  <br/>
 
 
 </h3>
 
 ## Live link for project
+- contact-manager-3ftceldxy-ak804670.vercel.app
 
 
 
